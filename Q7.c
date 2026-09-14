@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     double data_used, price_per_gb;
     double basic_cost, discount_rate = 0.0, discount_amount, final_cost;
 
